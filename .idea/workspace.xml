@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e48b24af-7bc3-4322-aba4-87933ba3afe9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WXK0PsbMspBqAYDT0ehYFdAXbY" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/patronesDiseno/behavioralPatterns/mediator" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ERIC\DESARROLLO\java_workspace\PatronesDisenoPrincipiosSolid\src\test\java\patronesDiseno\behavioralPatterns\mediator" />
+      <recent name="D:\ERIC\DESARROLLO\java_workspace\PatronesDisenoPrincipiosSolid\src\main\java\patronesDiseno\behavioralPatterns\mediator" />
+      <recent name="D:\ERIC\DESARROLLO\java_workspace\PatronesDisenoPrincipiosSolid\src\test\java\patronesDiseno\behavioralPatterns\command" />
+      <recent name="D:\ERIC\DESARROLLO\java_workspace\PatronesDisenoPrincipiosSolid\src\main\java\patronesDiseno\behavioralPatterns\command" />
+      <recent name="D:\ERIC\DESARROLLO\java_workspace\PatronesDisenoPrincipiosSolid\src\test\java\patronesDiseno\behavioralPatterns\chain" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DecoratorPatternExample">
+    <configuration name="DecoratorPatternExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patronesDiseno.structuralPatterns.decorator.example2.DecoratorPatternExample" />
+      <module name="PatronesDisenoPrincipiosSolid.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patronesDiseno.structuralPatterns.decorator.example2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patronesDiseno.structuralPatterns.flyweight.Main" />
+      <module name="PatronesDisenoPrincipiosSolid.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patronesDiseno.structuralPatterns.flyweight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InternationMoneyTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;patronesDiseno.structuralPatterns.adapter.InternationMoneyTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestFacade" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;patronesDiseno.structuralPatterns.facade.TestFacade&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestHamburguesaFactory" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;patronesDiseno.creationalPatterns.prototype.TestHamburguesaFactory&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DecoratorPatternExample" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.TestFacade" />
+        <item itemvalue="Gradle.InternationMoneyTests" />
+        <item itemvalue="Gradle.TestHamburguesaFactory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e48b24af-7bc3-4322-aba4-87933ba3afe9" name="Default Changelist" comment="" />
+      <created>1579290276320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579290276320</updated>
+    </task>
+    <servers />
+  </component>
+</project>
